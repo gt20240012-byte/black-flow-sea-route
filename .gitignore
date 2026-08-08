@@ -1,0 +1,14 @@
+# 输出与运行产物
+输出/
+测试存档/
+__pycache__/
+*.pyc
+env.ini
+
+# 录制临时文件
+*.mp4
+shot.png
+
+# 编辑器
+.vscode/
+.idea/
